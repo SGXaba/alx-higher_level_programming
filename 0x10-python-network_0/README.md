@@ -44,7 +44,7 @@ server set up on a container provided by ALX.
   `subject=I will always be here for PLD` and displays the response body.
 
 * **6. Find a peak**
-  * [6-peak.py](./6-peak.py): [Technical interview preparation] - Python
+  * [6-peak.py](./6-peak.py): [Technical interview preparation] - e python
   program that finds a peak in a list of unsorted integers.
   * [6-peak.txt](./6-peak.txt): Text file containing the complexity of the
   algorithm.
