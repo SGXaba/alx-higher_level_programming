@@ -1,6 +1,4 @@
 #!/usr/bin/node
-
-const list = require('./100-data').list;
-const res = list.map((item, i) => item * i);
+const list = require('./100-data.js').list;
 console.log(list);
-console.log(res);
+console.log(list.map((item, index) => item * index));
